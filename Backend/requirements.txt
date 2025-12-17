@@ -5,3 +5,4 @@ yfinance
 langchain 
 langgraph 
 langchain-google-genai
+matplotlib
